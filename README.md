@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### 🏆 GitHub Profile Trophy:
 ---
+
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=emimudev&show_icons=true&column=-1&theme=radical&no-frame=true&no-bg=true"/>
 
 ### 📊 GitHub Stats:
