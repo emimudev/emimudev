@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🏆 GitHub Profile Trophy:
+<!-- ### 🏆 GitHub Profile Trophy:
 ---
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=emimudev&show_icons=true&column=-1&theme=radical&no-frame=true&no-bg=true"/>
+ <img width="100%" src="https://github-profile-trophy.vercel.app/?username=emimudev&show_icons=true&column=-1&theme=radical&no-frame=true&no-bg=true"/> -->
 
 ### 📊 GitHub Stats:
 ---
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=emimudev&theme=radical&show_icons=true&count_private=true&custom_title=emimudev%20stats&hide_border=true&include_all_commits=true" />
-<img width="61%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emimudev&theme=radical"/>
+<!-- <img width="61%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emimudev&theme=radical"/> -->
 
 <!-- ![emimudev Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emimudev&theme=radical) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emimudev&layout=compact&theme=radical&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
